@@ -1,13 +1,31 @@
 1. Introduction of the project
-Topic
+Topic: How to predict Airbnb prices: the effect of COVID-19 in the Airbnb market
 Why it worths to study on, why important
+
 Potential questions needed to be answered in the final project
+
+Can we predict airbnb price?
+Are the important predicting factors different before and after?
+How has total number of rentals changed before and after COVID-19
+How has av. price rentals changed before and after COVID-19
+Has location of popular airbnb's changed after the pandemic
+How do reviews affect price?
+Private/Shared/Entire apartment - behavior has changed
+Lockdown effect in march
+
+Why important: active effect on economy - related to economic activity (tourists...)
+
 
 2. About the data set
 Data source
 Details about the data set
-Why this data set can help us to answer the questions we proposed
+Why this data set can help us to answer the questions we proposed: snapshots of rental data in NY before and after
+
+
 
 3. Methods
 Data visualization
 Models 
+
+4. Hypothesis
+Provide general overview answering the questions in 1. in two paragraphs
