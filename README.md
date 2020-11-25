@@ -9,8 +9,8 @@ The aim of this project is to understand what factors may affect housing prices 
 
 A brief overview of the files present in the project is provided:
 
-* `Data Mining and Cleaning` takes initial airbnb data from `data/initial data/` and cleans it whilst doing the necessary feature transformations
-* `EDA` several plots are produced to better understant the data distribution
-* `Airbnb Map NYC` maps the location of each of the Airbnb's to produce a visual representation over the city's map
-* `Model development` computes the first steps towards building a regression model. The best approach towards the final model is obtained here
-* `Airbnb Model` develops the final model in depth providing the necessary explanations and delving deeper into the results than in the `Model development` file
+* **Data Mining and Cleaning** takes initial airbnb data from `data/initial data/` and cleans it whilst doing the necessary feature transformations
+* **EDA** several plots are produced to better understant the data distribution
+* **Airbnb Map NYC** maps the location of each of the Airbnb's to produce a visual representation over the city's map
+* **Model development** computes the first steps towards building a regression model. The best approach towards the final model is obtained here
+* **Airbnb Model** develops the final model in depth providing the necessary explanations and delving deeper into the results than in the `Model development` file
