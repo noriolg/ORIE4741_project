@@ -14,4 +14,3 @@ A brief overview of the files present in the project is provided:
 * **3. Airbnb Map NYC** maps the location of each of the Airbnb's to produce a visual representation over the city's map
 * **4. Data splitting Train-Test** generates training and testing datasets to ensure common starting point for all three model building files
 * **5. Model Development I-III** using the train-test split from 4, three different models are built using different approaches.The best model will be chosen for 6.
-* **6. Airbnb Model** develops the final model in depth providing the necessary explanations and delving deeper into the results than in the `Model development` file
